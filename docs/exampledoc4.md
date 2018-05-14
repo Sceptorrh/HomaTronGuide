@@ -1,6 +1,6 @@
 ---
 id: doc4
-title: Other Document
+title: Bed
 ---
 
-this is another document
+this is about bed
